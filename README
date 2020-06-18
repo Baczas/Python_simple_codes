@@ -1,0 +1,10 @@
+Proggram z 3 prostymi funkcjami:
+
+1. Generrator kodów pocztowych
+generuje kody pocztowe zawarte miedzy dwoma podanymi kodami ( kody trzeba podać w postaci 00-000)
+
+2.  sprawdzanie obecnosci znakow na liscie 
+jesli znaki (liczby) nie sa na liscie to funkcja tworzy z nich nową tablice
+
+3. Generator tabel zmiennoprzecinkowych
+funkcja geneuje tabele od wartosci a do b ze skokiem c
